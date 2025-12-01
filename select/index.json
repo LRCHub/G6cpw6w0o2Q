@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "【妹のセイイキ - OP】ホントノトコロ",
+  "base_artist": "れぼ (fengCVA)",
+  "createdAt": "2025-12-01T12:53:19.062026Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ほんとのところ",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_01_ほんとのところ_東京事変.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ホントのところ",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_02_ホントのところ_東京事変.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "ほんとのところ",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_03_ほんとのところ_東京事変.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "本当のところどうなんだい",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_04_本当のところどうなんだい_東京事変.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "ほんとのところは",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_05_ほんとのところは_東京事変.txt"
+    }
+  ]
+}
